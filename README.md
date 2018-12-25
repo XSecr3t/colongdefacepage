@@ -10,8 +10,8 @@ Required :
 python3
 
 install ==> 
-pkg install python
-pkg instlal python-dev
+pkg install python <br>
+pkg install python-dev <br>
 
 Usage ==> python3 colong.py
 
